@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(36, 37, 36);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center; text-decoration-color: antiquewhite;
+} 
+#name {color: rgba(255, 145, 0, 0.932);}
+
+p1 {background-color:rgba(152, 24, 2, 0.611);color:rgb(255, 157, 0); font-size: medium;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+a {text-align: left;background-color: bisque;}
+ol {color: azure;}
+
+.links {font-family: 'Times New Roman', Times, serif;}
+.back {font-family: Arial, Helvetica, sans-serif; background-color: blueviolet;text-align: left;}
+#lol {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#wow {font-family: Arial, Helvetica, sans-serif;}

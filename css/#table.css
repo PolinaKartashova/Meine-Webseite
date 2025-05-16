@@ -1,0 +1,5 @@
+body {background-color: antiquewhite;}
+table, th, td{margin-right: auto;
+border: 1px solid;
+border-color: black;
+border-collapse: collapse;}
